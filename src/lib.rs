@@ -30,7 +30,7 @@ impl Erc721Params for StylusNFTParams {
 }
 pub enum MyError {
     Unknown,
-    // Poți adăuga și alte variante după necesitate.
+    
 }
 
 // Define persistent storage using the Solidity ABI.
